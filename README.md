@@ -7,5 +7,6 @@ Vous y retrouverez, sur la page principale, mes meilleurs clichés, puis sur les
 Ce projet me permet également de développer mes compétences en développement informatique, bien qu’il soit encore assez simple.
 
 Pour voir d'autres photos n'hesitez pas à me suivre sur mon instagram : @mchsn_carpics
+
 Si vous voulez me contacter pour un projet : marin.chsn@gmail.com
 
